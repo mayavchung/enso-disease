@@ -9,4 +9,4 @@ The code is in 2 parts:
 * Code runs the SIRS model (using MERRA2 data)
 * Code analyzes and plots the data
 
-The data from the model outputs is provided in the data/ folder.
+The data from the SIRS model (#1) output is provided in the data/ folder. The data from the Weather data-SIRS model (#2) is available for download on tigress. **INSERT LINK**
