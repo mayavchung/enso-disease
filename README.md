@@ -7,5 +7,6 @@ The code is in 2 parts:
 * Analyzes and plots the data
 2. Weather data-SIRS model (HCoV-HKU1, forced by MERRA2 weather data)
 * Code runs the SIRS model (using MERRA2 data)
-* Model output file provided
 * Code analyzes and plots the data
+
+The data from the model outputs is provided in the data/ folder.
