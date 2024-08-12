@@ -2,4 +2,4 @@ SIRS/
 Generalized Susceptible-Infected-Recovered-Susceptible models (seasonal and biennial outbreaks): run models and plot
 
 HKU1-MERRA2/
-SIRS model for HCoV-HKU1 (human coronavirus) with $R_0$ driven by specific humidity from MERRA2 weather data from 1981-2017
+SIRS model for HCoV-HKU1 (human coronavirus) with R_0 driven by specific humidity from MERRA-2 weather data from 1981-2017
