@@ -5,8 +5,8 @@ The code is in 2 parts:
 * Runs the SIRS model
 * Generates the SIRS model output
 * Analyzes and plots the data
-2. Weather data-SIRS model (HCoV-HKU1, forced by MERRA2 weather data)
-* Code runs the SIRS model (using MERRA2 data)
-* Code analyzes and plots the data
+2. MERRA-2/SIRS model (HCoV-HKU1, forced by MERRA-2 specific humidity data)
+* Runs the HCoV-HKU1 SIRS model
+* Analyzes and plots the data
 
-The data from the SIRS model (#1) output is provided in the data/ folder. The data from the Weather data-SIRS model (#2) is available for download on tigress. **INSERT LINK**
+The data from the SIRS model (#1) output is provided in the data/ folder. The data from the MERRA-2/SIRS model (#2) is available for download on tigress. **INSERT LINK**
