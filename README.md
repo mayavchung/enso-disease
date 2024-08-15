@@ -9,4 +9,4 @@ The code is in 2 parts:
 * Runs the HCoV-HKU1 SIRS model
 * Analyzes and plots the data
 
-The data from the SIRS model (#1) output is provided in the data/ folder. The data from the MERRA-2/SIRS model (#2) is available for download on tigress. **INSERT LINK**
+The data from the SIRS model (#1) output and the MERRA-2/SIRS model (#2) are provided in the data/ folder.
