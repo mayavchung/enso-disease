@@ -1,3 +1,4 @@
-MERRA-2/SIRS model data includes model input (not including the raw MERRA-2 data), model output, and the processed data with ENSO composites.
+MERRA-2/SIRS model data includes the model output (monthly averages) and ENSO composites. 
+Raw model input/output files are too large (>7 GB) but can be generated with MERRA-2 data input.
 
 NOAA ONI index data is used for the ENSO composites in the MERRA-2/SIRS model.
