@@ -1,1 +1,3 @@
-NOAA ONI index data is used for MERRA-2/SIRS model
+MERRA-2/SIRS model data includes model input (not including the raw MERRA-2 data), model output, and the processed data with ENSO composites.
+
+NOAA ONI index data is used for the ENSO composites in the MERRA-2/SIRS model.
