@@ -1,3 +1,5 @@
 These data and scripts are used to determine when ENSO years are between 1981-2017 for the MERRA-2/SIRS model.
 
 oni.data.txt is NOAA ONI data retrieved from: https://psl.noaa.gov/data/correlation/oni.data
+
+ONI_plot_ENSO creates the plot of the ONI index timeseries for Figure 1 and creates a file that is used to create ENSO composites in the MERRA-2/SIRS model.
