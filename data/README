@@ -1,4 +1,3 @@
-MERRA-2/SIRS model data includes the model output (monthly averages) and ENSO composites. 
-Raw model input/output files are too large (>7 GB) but can be generated with MERRA-2 data input.
+MERRA-2/SIRS model input/output files are too large but can be generated with MERRA-2 specific humidity data input. The files are available on tigress-web.
 
 NOAA ONI index data is used for the ENSO composites in the MERRA-2/SIRS model.
