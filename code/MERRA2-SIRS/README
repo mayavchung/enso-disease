@@ -1,1 +1,2 @@
 * ONI_plot_ENSO creates timeseries in Figure 1 and determines the ENSO event years from 1981-2017 to be used for ENSO composites for the MERRA-2/SIRS model output.
+* Figure 2: fig2_q_vs_R0 specific humidity and R0 dependence
