@@ -9,6 +9,8 @@ The code is in 2 parts:
 * Runs the HCoV-HKU1 SIRS model
 * Analyzes and plots the data
 
-The model output from the SIRS model (#1) output and the MERRA-2/SIRS model (#2) run at weekly resolution with 20 years of spin-up are provided in the data/ folder.
+The model output from the SIRS models (#1) output are provided in the data/ folder.
+
+MERRA-2/SIRS model (#2) inputs and outputs run at weekly resolution with 20 years of spin-up are available on tigress-web at Princeton University: https://tigress-web.princeton.edu/~mvchung/ENSO_disease/paper_MERRA2-SIRS-HKU1-data/
 
 MERRA-2 data can be downloaded from NASA here: https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/data_access/
