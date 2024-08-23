@@ -10,7 +10,7 @@ The code is in 2 parts:
 * Runs the HCoV-HKU1 SIRS model
 * Analyzes and plots the disease data
 
-The model output from the SIRS models (#1) output are provided in the data/ folder.
+The model output from the idealized SIRS models (#1) are provided in the data/ folder.
 
 MERRA-2/SIRS model (#2) specific humidity inputs and disease variable outputs are available on tigress-web at Princeton University: https://tigress-web.princeton.edu/~mvchung/ENSO_disease/paper_MERRA2-SIRS-HKU1-data/
 
