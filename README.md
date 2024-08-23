@@ -5,7 +5,7 @@ The code is in 2 parts:
 * Runs the SIRS model
 * Generates the SIRS model output
 * Analyzes and plots the data
-2. MERRA-2/SIRS model (HCoV-HKU1, forced by MERRA-2 specific humidity data)
+2. MERRA-2/SIRS model (HCoV-HKU1 parameters, forced by MERRA-2 specific humidity data)
 * Analyzes ONI data (ENSO event years)
 * Runs the HCoV-HKU1 SIRS model
 * Analyzes and plots the disease data
