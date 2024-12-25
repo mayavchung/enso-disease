@@ -1,4 +1,4 @@
-This repository contains code and partial data and model output for Chung et al., "Intersecting memories of immunity and climate: Potential multiyear impacts of the El Niño—Southern Oscillation on infectious disease spread."
+This repository contains code, figures, and partial data and model output for Chung et al., "Intersecting memories of immunity and climate: Potential multiyear impacts of the El Niño—Southern Oscillation on infectious disease spread."
 
 The code is in 2 parts:
 1. SIRS-ENSO model (seasonal and biennial)
