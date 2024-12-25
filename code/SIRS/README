@@ -1,5 +1,5 @@
-spinup1000_run_plot_SIRS_ENSO_seasonal.ipynb produces Figure 3.
+spinup1000_run_plot_SIRS_ENSO_seasonal.ipynb produces Figures 3 and S1.
 
-spinup1000_run_plot_SIRS_ENSO_biennial.ipynb produces the equivalent for the biennial SIRS model.
+spinup1000_run_plot_SIRS_ENSO_biennial.ipynb produces the equivalent for the biennial SIRS model (Fig. S2, S3).
 
-summary plots ENSO SIRS seasonal and biennial.ipynb produces Figure 4.
+summary plots ENSO SIRS seasonal and biennial.ipynb produce Figure 4 and S4.
