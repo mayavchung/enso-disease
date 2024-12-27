@@ -13,7 +13,7 @@ The code is in 2 parts:
 
 The model output from the idealized SIRS models (#1) are provided in the data/ folder.
 
-MERRA-2/SIRS model (#2) specific humidity input data and disease model outputs are available on tigress-web at Princeton University: https://tigress-web.princeton.edu/~mvchung/ENSO_disease/paper_MERRA2-SIRS-HKU1-data/
+MERRA-2/SIRS model (#2) specific humidity input data and disease model outputs are available at https://doi.org/10.5281/zenodo.14558574. They are also available on tigress-web at Princeton University along with some of the analyzed model output: https://tigress-web.princeton.edu/~mvchung/ENSO_disease/paper_MERRA2-SIRS-HKU1-data/
 
 MERRA-2 data can be downloaded from NASA here: https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/data_access/
 
