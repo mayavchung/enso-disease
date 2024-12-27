@@ -1,3 +1,3 @@
-MERRA-2/SIRS model input/output files are too large to store on Github, so are instead available on tigress-web at Princeton University: https://tigress-web.princeton.edu/~mvchung/ENSO_disease/paper_MERRA2-SIRS-HKU1-data/
+MERRA-2/SIRS model input/output files are too large to store on Github, so are instead available at https://doi.org/10.5281/zenodo.14558574 or on tigress-web at Princeton University: https://tigress-web.princeton.edu/~mvchung/ENSO_disease/paper_MERRA2-SIRS-HKU1-data/
 
 NOAA ONI index data is used for the ENSO composites in the MERRA-2/SIRS model.
